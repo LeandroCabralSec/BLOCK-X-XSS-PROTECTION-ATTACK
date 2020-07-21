@@ -1,3 +1,7 @@
+O X-XSS-Protection habilita o filtro XSS fornecido pelos navegadores modernos (IE8 +, Chrome, Firefox, Safari etc.). Essa é a configuração recomendada.
+
+X-XSS-Protection enables the XSS filter provided by modern browsers (IE8 +, Chrome, Firefox, Safari etc.). This is the recommended configuration.
+
 # BLOQUEAR ATAQUE DE X-XSS-PROTECTION NO .HTACCESS #
 # BLOCK X-XSS-PROTECTION ATTACK ON .HTACCESS #
 <IfModule mod_headers.c>
